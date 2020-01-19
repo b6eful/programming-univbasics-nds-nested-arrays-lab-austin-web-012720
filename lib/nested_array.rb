@@ -46,7 +46,6 @@ def sorted_matrix
   ]
   array
 end
-end
 
 def matrix_lookup(matrix, row, column)
   matrix[rox][column]
