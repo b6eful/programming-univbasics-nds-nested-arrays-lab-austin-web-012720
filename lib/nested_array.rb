@@ -45,6 +45,7 @@ def sorted_matrix
      "Asparagus"].sort
   ]
 end
+end
 
 def matrix_lookup(matrix, row, column)
   matrix[rox][column]
