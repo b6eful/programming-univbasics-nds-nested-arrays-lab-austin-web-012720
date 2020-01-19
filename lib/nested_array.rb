@@ -44,6 +44,7 @@ def sorted_matrix
      "Avocadoes",
      "Asparagus"].sort
   ]
+  array
 end
 end
 
